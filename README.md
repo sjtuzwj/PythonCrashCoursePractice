@@ -1,0 +1,2 @@
+# PythonCrashCoursePractice
+Some project
